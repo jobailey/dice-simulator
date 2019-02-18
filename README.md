@@ -1,7 +1,7 @@
 # Dice Simulator
 
 ## Purpose
-To work on my goal to become familiar with Python 3, I decided to program a dice simulator. This allowed me to work with **while loops** to understand Python 3's conditional statements. The **input** statement is used to allow for the user to 
+To work on my goal to become familiar with Python 3, I decided to program a dice simulator. This allowed me to work with **while loops** to understand Python 3's conditional statements. The **input** statement takes user entries as an argument for decision-making. 
 
 ## Usage
 __Python Standard Libraries__
