@@ -15,7 +15,6 @@ __Python Standard Libraries__
 - Incorporate prize array 
 - Allow user to accept or decline prize 
 - Simulate the use of more than two dice
-- 
 
 ## Dependencies
 - [Python 3](https://www.python.org/downloads/)
