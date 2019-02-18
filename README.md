@@ -5,7 +5,7 @@ To work on my goal to become familiar with Python 3, I decided to program a dice
 
 ## Usage
 __Python Standard Libraries__
-***import***
+**import**
 -[random](https://docs.python.org/3/library/random.html)
 -[time](https://docs.python.org/3/library/time.html)
 
