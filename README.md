@@ -7,8 +7,9 @@ To work on my goal to become familiar with Python 3, I decided to program a dice
 __Python Standard Libraries__
 
 **import**
--[random](https://docs.python.org/3/library/random.html)
--[time](https://docs.python.org/3/library/time.html)
+
+- [random](https://docs.python.org/3/library/random.html)
+- [time](https://docs.python.org/3/library/time.html)
 
 ## Future Development
 - Incorporate prize array 
