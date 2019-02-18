@@ -20,4 +20,4 @@ __Python Standard Libraries__
 - [Python 3](https://www.python.org/downloads/)
 
 ### Video Summary
-[]()
+[Dice Simulator](http://youtu.be/uNWp3ndeOzE?hd=1)
